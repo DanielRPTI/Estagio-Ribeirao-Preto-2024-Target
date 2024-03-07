@@ -4,6 +4,5 @@ Este repositório contém as soluções para os 5 exercícios propostos no teste
 
 O desenvolvimento das soluções foi realizado utilizando a linguagem de programação Java. Essa escolha reflete o meu conhecimento e experiência nesta linguagem, alinhando-se com os requisitos e expectativas para a vaga de estágio na área de desenvolvimento.
 
-🌐 Sources
-GitHub - Desafios estágio Target Sistemas
+
 
